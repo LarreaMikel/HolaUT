@@ -35,7 +35,7 @@ MainView {
                 topMargin: units.gu(2)
             }
 
-            text: i18n.tr("Hello..")
+            text: i18n.tr("Hola..")
         }
 
         Button {
@@ -46,9 +46,9 @@ MainView {
                 topMargin: units.gu(2)
             }
             width: parent.width
-            text: i18n.tr("Tap me!")
+            text: i18n.tr("¡Púlsame!")
             onClicked: {
-                label.text = i18n.tr("..world!")
+                label.text = i18n.tr("..Ubuntu Touch!")
             }
         }
     }
