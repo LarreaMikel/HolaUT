@@ -1,0 +1,8 @@
+[Desktop Entry]
+_Name=HolaUT
+Exec=qmlscene %U HolaUT/Main.qml
+Icon=HolaUT/HolaUT.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+

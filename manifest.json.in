@@ -1,0 +1,17 @@
+{
+    "name": "holaut.larreamikel",
+    "description": "description of HolaUT",
+    "architecture": "@CLICK_ARCH@",
+    "title": "HolaUT",
+    "hooks": {
+        "HolaUT": {
+            "apparmor": "HolaUT/HolaUT.apparmor",
+            "desktop":  "HolaUT/HolaUT.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "Mikel Larrea <developer@larreamikel.com>",
+    "framework" : "ubuntu-sdk-15.04.6"
+}
+
+
