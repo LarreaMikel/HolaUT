@@ -48,7 +48,7 @@ MainView {
             width: parent.width
             text: i18n.tr("¡Púlsame!")
             onClicked: {
-                label.text = i18n.tr("..Ubuntu Touch!")
+                label.text = i18n.tr("..Ubuntu Touch World!")
             }
         }
     }
